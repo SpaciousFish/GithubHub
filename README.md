@@ -19,7 +19,7 @@ several options:
 
   e.g.
 
-  iisexpress /path:"c:\users\shawn\documents\pluralsight\demos\m01" /port:8080
+  iisexpress /path:"c:\users\documents\project" /port:8080
 
   Once you do this, you can open the project up in a web browser by navigating to:
 
