@@ -1,6 +1,8 @@
 # GithubHub
 This is a site to search Github for interesting projects.
 
+See the app: https://github-hub.netlify.app
+
 How to host on a local web server. There are 
 several options:
 
